@@ -22,7 +22,7 @@ This is my personal portfolio website that showcases my projects, technical skil
 
 ## 🔗 Live Demo
 
-Visit the live site: [Click Here](#) <!-- Replace # with actual deployed link -->
+Visit the live site: https://saurabh-chamoli.github.io/Portfolio/
 
 ## 📂 Folder Structure
 
