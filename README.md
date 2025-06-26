@@ -24,5 +24,3 @@ This is my personal portfolio website that showcases my projects, technical skil
 
 Visit the live site: https://saurabh-chamoli.github.io/Portfolio/
 
-## 📂 Folder Structure
-
